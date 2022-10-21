@@ -1,17 +1,17 @@
 {
   "workbooks": [
     {
-      "name": "Profit_Sales_hidden",
-      "file_path": "Profit_Sales_hidden.twbx",
+      "name": "Price Forecast",
+      "file_path": "Price Forecast.twbx",
       "project_path": "Technology",
       "tags": [ "Bluebikes", "Champs"
     
       ],
-      "hidden_views": ["Product","Map"
+      "hidden_views": ["",""
         
       ],
       "show_tabs": true,
-     "description": "review new"
+     "description": "Forecast"
     },
     {
       "name": "Superstore - Profitability Overview",
