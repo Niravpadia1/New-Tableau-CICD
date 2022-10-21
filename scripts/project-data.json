@@ -1,0 +1,30 @@
+{
+  "workbooks": [
+    {
+      "name": "Contest Superstore",
+      "file_path": "Contest Superstore.twbx",
+      "project_path": "Technology",
+      "tags": [ "Bluebikes", "Champs"
+    
+      ],
+      "hidden_views": [
+        
+      ],
+      "show_tabs": true,
+     "description": "review new"
+    },
+    {
+      "name": "Superstore - Profitability Overview",
+      "file_path": "Superstore - Profitability Overview.twb",
+      "project_path": "Technology",
+      "tags": [ "Bluebikes", "Champs"
+    
+      ],
+      "hidden_views": [
+        
+      ],
+      "show_tabs": true,
+     "description": "review new"
+    }
+  ]
+}
