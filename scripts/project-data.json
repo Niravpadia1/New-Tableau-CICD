@@ -1,13 +1,13 @@
 {
   "workbooks": [
     {
-      "name": "InsideAirbnb",
-      "file_path": "InsideAirbnb.twbx",
+      "name": "Profit_Sales_hidden",
+      "file_path": "Profit_Sales_hidden.twbx",
       "project_path": "Technology",
       "tags": [ "Bluebikes", "Champs"
     
       ],
-      "hidden_views": [
+      "hidden_views": ["Product","Map"
         
       ],
       "show_tabs": true,
