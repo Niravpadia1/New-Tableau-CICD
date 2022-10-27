@@ -3,7 +3,7 @@
     {
       "name": "Price Forecast",
       "file_path": "Price Forecast.twbx",
-      "project_path": "Technology",
+      "project_path": "Working",
       "tags": [ "Bluebikes", "Champs"
     
       ],
@@ -11,12 +11,12 @@
         
       ],
       "show_tabs": true,
-     "description": "Forecast"
+     "description": "New"
     },
     {
       "name": "Superstore - Profitability Overview",
       "file_path": "Superstore - Profitability Overview.twb",
-      "project_path": "Technology",
+      "project_path": "Online",
       "tags": [ "Bluebikes", "Champs"
     
       ],
@@ -24,7 +24,7 @@
         
       ],
       "show_tabs": true,
-     "description": "review new"
+     "description": "New"
     }
   ]
 }
